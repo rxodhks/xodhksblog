@@ -1,4 +1,4 @@
-0:["5CmL8CIREHe0SfId0Pf_C",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+0:["JDKEEiSxk5Ho6V1CFb91K",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
 3:I{"id":4514,"chunks":["700:static/chunks/700-800dd6e71a680b00.js","396:static/chunks/396-191ce14c8c153ad8.js","185:static/chunks/app/layout-94a050decd340937.js"],"name":"","async":false}
 4:I{"id":1955,"chunks":["700:static/chunks/700-800dd6e71a680b00.js","396:static/chunks/396-191ce14c8c153ad8.js","185:static/chunks/app/layout-94a050decd340937.js"],"name":"","async":false}
 5:I{"id":7767,"chunks":["272:static/chunks/webpack-33e533793a2965ba.js","971:static/chunks/fd9d1056-4691c648476250ad.js","596:static/chunks/596-19566c30eae76839.js"],"name":"default","async":false}
@@ -42,7 +42,7 @@ function MDXContent(props = {}) {
 return {
   default: MDXContent
 };
-b:T728,/*@jsxRuntime automatic @jsxImportSource react*/
+b:T71f,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -53,8 +53,8 @@ function _createMdxContent(props) {
   return _jsxs(_Fragment, {
     children: [_jsxs(_components.p, {
       children: ["첫번째 줄은 ", _jsx(_components.strong, {
-        children: "bold text"
-      }), "타이틀이며,"]
+        children: "타이틀"
+      }), "이며,"]
     }), "\n", _jsx(_components.p, {
       children: "두번째 줄은 날짜,"
     }), "\n", _jsx(_components.p, {
