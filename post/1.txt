@@ -1,4 +1,4 @@
-0:["oUlyBjXlEq7Pb-8qremTw",[[["",{"children":["post",{"children":[["slug","1","d"],{"children":["__PAGE__?{\"slug\":\"1\"}",{}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+0:["Z8CVrngIKXEHScQj5QaXR",[[["",{"children":["post",{"children":[["slug","1","d"],{"children":["__PAGE__?{\"slug\":\"1\"}",{}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
 3:I{"id":4514,"chunks":["700:static/chunks/700-800dd6e71a680b00.js","396:static/chunks/396-191ce14c8c153ad8.js","185:static/chunks/app/layout-5fa4664cca35665e.js"],"name":"","async":false}
 4:I{"id":1955,"chunks":["700:static/chunks/700-800dd6e71a680b00.js","396:static/chunks/396-191ce14c8c153ad8.js","185:static/chunks/app/layout-5fa4664cca35665e.js"],"name":"","async":false}
 5:I{"id":7767,"chunks":["272:static/chunks/webpack-33e533793a2965ba.js","971:static/chunks/fd9d1056-4691c648476250ad.js","596:static/chunks/596-19566c30eae76839.js"],"name":"default","async":false}
@@ -17,9 +17,9 @@ function _createMdxContent(props) {
     children: [_jsx(_components.p, {
       children: "첫번째 줄은 '타이틀' 이며,"
     }), "\n", _jsx(_components.p, {
-      children: "두번째 줄은 '날짜',"
+      children: "두번째 줄은 '카테고리',"
     }), "\n", _jsx(_components.p, {
-      children: "세번째 줄은 '카테고리' 를 의미합니다."
+      children: "세번째 줄은 '날짜' 를 의미합니다."
     }), "\n", _jsx(_components.p, {
       children: "지금 화면을 예시로 들면,"
     }), "\n", _jsx(_components.p, {
