@@ -1,4 +1,4 @@
-0:["2w9XKdGxdjXxlnEcnh-tk",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+0:["eHQvaScfsdbSkS8Gcgl5_",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
 3:I{"id":4514,"chunks":["700:static/chunks/700-800dd6e71a680b00.js","396:static/chunks/396-191ce14c8c153ad8.js","185:static/chunks/app/layout-4c8540476c6261a0.js"],"name":"","async":false}
 4:I{"id":1955,"chunks":["700:static/chunks/700-800dd6e71a680b00.js","396:static/chunks/396-191ce14c8c153ad8.js","185:static/chunks/app/layout-4c8540476c6261a0.js"],"name":"","async":false}
 5:I{"id":7767,"chunks":["272:static/chunks/webpack-33e533793a2965ba.js","971:static/chunks/fd9d1056-4691c648476250ad.js","596:static/chunks/596-19566c30eae76839.js"],"name":"default","async":false}
@@ -76,7 +76,7 @@ function _createMdxContent(props) {
     }), "\n", _jsx(_components.p, {
       children: "타이틀은 업데이트 1, 업데이트 2, ...처럼 적힐 것이며,"
     }), "\n", _jsx(_components.p, {
-      children: "날짜는 업데이트가 이루어진 해당 날짜가 적힐 것이며,"
+      children: "날짜는 업데이트가 이루어진 당일 날짜가 적힐 것이며,"
     }), "\n", _jsx(_components.p, {
       children: "카테고리는 업데이트가 어디 부류에 속했는지"
     }), "\n", _jsx(_components.p, {
